@@ -122,7 +122,7 @@ retail-sales-dashboard/
 | [🧭 Conceptual_Model.png](Conceptual_Model.png) | High-level table relationship diagram |
 | [🧱 Physical_Datamodel.png](Physical_Datamodel.png) | Field-level data model diagram |
 | [🖼️ Dashboard_Page1_Overview.png](Dashboard_Page1_Overview.png) | Page 1 — Overview screenshot |
-| [🖼️ Dasboard_Page2_Time_Series_Analysis.png](Dasboard_Page2_Time_Series_Analysis.png) | Page 2 — Time Series Analysis screenshot |
+| [🖼️ Dasboard_Page2_Time_Series_Analysis.png](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/Dashboard-Page2_Time-Series-Analysis.png) | Page 2 — Time Series Analysis screenshot |
 | [📄 Documentation.md](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/Documentation.md)| Full project documentation |
 | [📘 README.md](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/README.md) | This file |
 
