@@ -118,7 +118,7 @@ retail-sales-dashboard/
 | File | Description |
 |---|---|
 | [📊 Retail-Sales-Dashboard.pbix](Retail-Sales-Dashboard.pbix) | Power BI dashboard file — open in Power BI Desktop |
-| [🗃️ Original Data/retail-store-multiyear-dataset.xlsx](Original%20Data/retail-store-multiyear-dataset.xlsx) | Raw source dataset (5,000 rows, 2022–2025) |
+| [🗃️ Original Data/retail-store-multiyear-dataset.xlsx](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/retail-store-multiyear-dataset.xlsx) | Raw source dataset (5,000 rows, 2022–2025) |
 | [🧭 Conceptual_Model.png](Conceptual_Model.png) | High-level table relationship diagram |
 | [🧱 Physical_Datamodel.png](Physical_Datamodel.png) | Field-level data model diagram |
 | [🖼️ Dashboard_Page1_Overview.png](Dashboard_Page1_Overview.png) | Page 1 — Overview screenshot |
