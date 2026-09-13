@@ -28,7 +28,7 @@ This project transforms a raw multi-year retail transactions dataset into a two-
 ![Overview](Dashboard_Page1_Overview.png)
 
 **Page 2 — Time Series Analysis**
-![Time Series Analysis](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/Dasboard_Page2_Time%20Series%20Analysis.png)
+![Time Series Analysis](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/Dashboard-Page2_Time-Series-Analysis.png)
 
 ---
 
