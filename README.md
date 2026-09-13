@@ -160,7 +160,7 @@ retail-sales-dashboard/
 - **Clothing** and **Electronics** are the strongest profit-contributing categories; **Beauty** trails the other four.
 - Sales show a clear cyclical current-year-vs-prior-year pattern rather than flat, uniform growth.
 
-See **[Documentation.md](Documentation.md)** for the full write-up: data prep steps, DAX measures, and detailed business-question answers.
+See **[Documentation.md](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/Documentation.md)** for the full write-up: data prep steps, DAX measures, and detailed business-question answers.
 
 ---
 
