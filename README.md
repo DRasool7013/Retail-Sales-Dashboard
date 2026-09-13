@@ -28,7 +28,7 @@ This project transforms a raw multi-year retail transactions dataset into a two-
 ![Overview](Dashboard_Page1_Overview.png)
 
 **Page 2 — Time Series Analysis**
-![Time Series Analysis](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/Dashboard-Page2_Time-Series-Analysis.png)
+![Time Series Analysis](Dasboard_Page2_Time_Series_Analysis.png)
 
 ---
 
@@ -113,6 +113,21 @@ retail-sales-dashboard/
 
 ---
 
+## 📎 Files
+
+| File | Description |
+|---|---|
+| [📊 Retail-Sales-Dashboard.pbix](Retail-Sales-Dashboard.pbix) | Power BI dashboard file — open in Power BI Desktop |
+| [🗃️ Original Data/retail-store-multiyear-dataset.xlsx](Original%20Data/retail-store-multiyear-dataset.xlsx) | Raw source dataset (5,000 rows, 2022–2025) |
+| [🧭 Conceptual_Model.png](Conceptual_Model.png) | High-level table relationship diagram |
+| [🧱 Physical_Datamodel.png](Physical_Datamodel.png) | Field-level data model diagram |
+| [🖼️ Dashboard_Page1_Overview.png](Dashboard_Page1_Overview.png) | Page 1 — Overview screenshot |
+| [🖼️ Dasboard_Page2_Time_Series_Analysis.png](Dasboard_Page2_Time_Series_Analysis.png) | Page 2 — Time Series Analysis screenshot |
+| [📄 Documentation.md](Documentation.md) | Full project documentation |
+| [📘 README.md](README.md) | This file |
+
+---
+
 ## 🚀 Getting Started
 
 **Requirements:** [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
@@ -145,7 +160,7 @@ retail-sales-dashboard/
 - **Clothing** and **Electronics** are the strongest profit-contributing categories; **Beauty** trails the other four.
 - Sales show a clear cyclical current-year-vs-prior-year pattern rather than flat, uniform growth.
 
-See **[Documentation.md](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/Documentation.md)** for the full write-up: data prep steps, DAX measures, and detailed business-question answers.
+See **[Documentation.md](Documentation.md)** for the full write-up: data prep steps, DAX measures, and detailed business-question answers.
 
 ---
 
