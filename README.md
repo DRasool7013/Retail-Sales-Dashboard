@@ -124,7 +124,7 @@ retail-sales-dashboard/
 | [🖼️ Dashboard_Page1_Overview.png](Dashboard_Page1_Overview.png) | Page 1 — Overview screenshot |
 | [🖼️ Dasboard_Page2_Time_Series_Analysis.png](Dasboard_Page2_Time_Series_Analysis.png) | Page 2 — Time Series Analysis screenshot |
 | [📄 Documentation.md](Documentation.md) | Full project documentation |
-| [📘 README.md](README.md) | This file |
+| [📘 README.md](https://github.com/DRasool7013/retail-sales-dashboard/blob/main/README.md) | This file |
 
 ---
 
