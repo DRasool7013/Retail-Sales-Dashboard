@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing multi-year retail sales performance across regions, cities, product categories, brands, and sales channels — built on a star-schema data model with 5,000 transactions spanning 2022–2025.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](Retail-Sales-Dashboard.pbix)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 ---
