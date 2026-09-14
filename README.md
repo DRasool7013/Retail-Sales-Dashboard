@@ -175,4 +175,6 @@ See **[Documentation.md](https://github.com/DRasool7013/retail-sales-dashboard/b
 
 ## 👤 Author
 
-Built as a data analytics portfolio project.
+**D. Alla Rasool**
+📧 rasoolpinjari0@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
